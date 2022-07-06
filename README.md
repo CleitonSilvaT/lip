@@ -1,4 +1,15 @@
-## Welcome to LIP
+## Portifólio de Projetos Desenvolvidos
+
+### Projeto 1
+- Neste projeto foi criado uma aplicação baseada no Jogo 2Pong.
+- Projeto desenvolvido na Disciplina de LIP - PUC Minas 01/2022.
+
+[Link do Projeto](https://scratch.mit.edu/)
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/CleitonSilvaT/lip/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
